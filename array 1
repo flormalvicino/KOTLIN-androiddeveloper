@@ -1,0 +1,6 @@
+fun main() {
+val diasSemana = arrayOf ("lunes", "martes", "miercoles", "jueves", "viernes","sabado","domingo")
+diasSemana.forEach{
+    println(it)
+}
+}
