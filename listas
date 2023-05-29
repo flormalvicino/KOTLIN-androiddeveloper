@@ -1,0 +1,5 @@
+fun main() {
+    val diasSemana : List <String> = listOf ("lunes", "martes", "miercoles", "jueves", "viernes","sabado","domingo")
+    println (diasSemana [2]) // println(diasSemana/.first/last) 
+  
+}
