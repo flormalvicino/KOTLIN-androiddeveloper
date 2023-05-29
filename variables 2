@@ -1,5 +1,5 @@
 fun main() {
-  var edad: String = "13"
+  var edad: String = "17"
   var nombre: String = "Flor"
     println ("mi nombre es $nombre y tengo $edad años")
 }
