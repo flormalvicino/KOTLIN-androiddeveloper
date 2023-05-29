@@ -1,0 +1,9 @@
+fun main() {
+   var edad: Int = 10
+    var num: Int = 20
+    println (edad + num)
+    println (edad - num)
+    println (edad * num)
+    println (edad / num)
+    println (edad % num)
+}
