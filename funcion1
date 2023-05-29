@@ -1,0 +1,9 @@
+
+fun main() {
+    sumar(13, 28)
+}
+
+fun sumar (numero: Int, edad: Int){
+   val resultado = numero + edad
+    println(resultado)
+}
