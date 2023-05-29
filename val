@@ -1,0 +1,6 @@
+fun main() {
+val numero : Int = 13
+    val edad : Int = 10
+    val resultado = numero + edad
+    println(resultado)
+}
